@@ -1,0 +1,714 @@
+# Translation of Plugins - Modern Cart – WooCommerce Side Cart &amp; Popup Cart - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Modern Cart – WooCommerce Side Cart &amp; Popup Cart - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-06 10:35:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Modern Cart – WooCommerce Side Cart &amp; Popup Cart - Stable (latest release)\n"
+
+#: admin-core/inc/settings-fields.php:329
+msgid "Cart Header"
+msgstr "Header Keranjang"
+
+#: admin-core/inc/settings-fields.php:355
+msgid "Cart Header Font Size"
+msgstr "Ukuran Font Header Keranjang"
+
+#: admin-core/inc/settings-fields.php:334
+#: inc/abilities/settings/get-available-options.php:258
+msgid "Cart Header Text Alignment"
+msgstr "Penyelarasan Teks Header Keranjang"
+
+#: admin-core/inc/settings-fields.php:335
+msgid "Choose how the text in your cart header is aligned."
+msgstr "Pilih bagaimana teks di header keranjang Anda diatur."
+
+#: admin-core/inc/settings-fields.php:358
+msgid "Default size: 22px"
+msgstr "Ukuran default: 22px"
+
+#: admin-core/inc/settings-fields.php:356
+msgid "Set the font size for the cart header (in pixels)."
+msgstr "Atur ukuran font untuk header keranjang (dalam piksel)."
+
+#: admin-core/inc/settings-fields.php:348
+#: inc/abilities/settings/get-available-options.php:271
+msgid "Right"
+msgstr "Kanan"
+
+#: admin-core/inc/settings-fields.php:340
+#: inc/abilities/settings/get-available-options.php:263
+msgid "Left"
+msgstr "Kiri"
+
+#: admin-core/inc/settings-fields.php:344
+msgid "Center"
+msgstr "Rata Tengah"
+
+#. translators: %s: product name
+#: inc/slide-out-ajax.php:177
+msgid "\"%s\" has been added to the cart."
+msgstr "\"%s \" telah ditambahkan ke keranjang."
+
+#. translators: %s: product name
+#: inc/slide-out-ajax.php:424
+msgid "\"%s\" has been updated."
+msgstr "\"%s \" telah diperbarui."
+
+#. translators: %s: product name
+#: inc/slide-out-ajax.php:441
+msgid "\"%s\" was removed from your cart"
+msgstr "\"%s \" telah dihapus dari keranjang Anda"
+
+#. translators: 1: sale text (e.g., "Save"), 2: percentage value (e.g., "20")
+#: inc/functions.php:173
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: %1$s: field label , %2$s: field value
+#: inc/cart.php:545
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. Translators: %s Product title.
+#: inc/slide-out-ajax.php:574 inc/slide-out-ajax.php:578
+msgid "%s removed."
+msgstr "%s dihapus."
+
+#. translators: %s: tax amount and estimated text.
+#: inc/cart.php:475
+msgid "(includes %s)"
+msgstr "(termasuk %s)"
+
+#: templates/cart/powered-by.php:21
+msgid "(opens in a new tab)"
+msgstr "(buka di tab baru)"
+
+#: inc/slide-out.php:136
+msgid "Add"
+msgstr "Tambahkan"
+
+#: admin-core/inc/settings-fields.php:154
+msgid "Allow customers to enter a coupon code in the cart to apply discounts."
+msgstr "Izinkan pelanggan memasukkan kode kupon di keranjang untuk menerapkan diskon."
+
+#: admin-core/inc/settings-fields.php:409
+msgid "Animation Speed"
+msgstr "Kecepatan Animasi"
+
+#: inc/slide-out.php:296
+msgid "Applied Coupons"
+msgstr "Kupon yang Diterapkan"
+
+#: inc/slide-out.php:375 admin-core/assets/build/settings.js:9
+msgid "Apply"
+msgstr "Terapkan"
+
+#: templates/cart/coupon-form.php:50
+msgid "Apply coupon code"
+msgstr "Terapkan kode kupon"
+
+#: inc/slide-out.php:680
+msgid "Available on backorder"
+msgstr "Tersedia di pemesanan ulang"
+
+#: admin-core/inc/settings-fields.php:320
+msgid "Body Color"
+msgstr "Warna Body"
+
+#: admin-core/inc/settings-fields.php:277
+#: inc/abilities/settings/get-available-options.php:243
+msgid "Bottom Left"
+msgstr "Kiri Bawah"
+
+#: admin-core/inc/settings-fields.php:281
+msgid "Bottom Right"
+msgstr "Kanan Bawah"
+
+#. translators: %d: number of items in cart
+#: templates/shop/floating-inner.php:23
+msgid "Cart Button with %d items"
+msgstr "Tombol Keranjang dengan item %d"
+
+#: admin-core/inc/settings-fields.php:136
+#: inc/abilities/settings/get-available-options.php:149
+msgid "Cart Style"
+msgstr "Gaya Keranjang"
+
+#: inc/cart.php:528
+msgid "Cart Subtotal"
+msgstr "Subtotal Keranjang"
+
+#: inc/cart.php:532
+msgid "Cart Total"
+msgstr "Total Keranjang"
+
+#: inc/slide-out-ajax.php:511
+msgid "Cart updated successfully!"
+msgstr "Keranjang berhasil diperbarui!"
+
+#. Author of the plugin
+#: modern-cart.php templates/cart/powered-by.php:20
+msgid "CartFlows"
+msgstr "Cartflow"
+
+#: inc/slide-out.php:549 admin-core/assets/build/settings.js:9
+msgid "Check out our shop to see what's available"
+msgstr "Kunjungi toko kami untuk melihat apa yang tersedia"
+
+#: admin-core/inc/settings-fields.php:237
+msgid "Checkout Button Text"
+msgstr "Teks Tombol Checkout"
+
+#: inc/slide-out.php:410
+msgid "Checkout now"
+msgstr "Checkout sekarang"
+
+#: admin-core/inc/settings-fields.php:410
+msgid "Choose how fast or slow the animation plays."
+msgstr "Pilih seberapa cepat atau lambat animasi diputar."
+
+#: admin-core/inc/settings-fields.php:116
+msgid "Choose where you want to enable the cart on your website."
+msgstr "Pilih di mana Anda ingin mengaktifkan keranjang di situs web Anda."
+
+#: templates/cart/header-style1.php:17 templates/cart/header-style1.php:61
+#: templates/cart/header-style2.php:20 templates/cart/header-style2.php:24
+msgid "Close cart"
+msgstr "Tutup keranjang"
+
+#. translators: %1$s is replaced with the coupon name and %2$s with the coupon
+#. amount
+#: inc/slide-out.php:320
+msgid "Coupon \"%1$s\" (%2$s)"
+msgstr "Kupon \"%1$s\" (%2$s)"
+
+#: templates/cart/coupon-form.php:42
+msgid "Coupon code"
+msgstr "Kode kupon"
+
+#: admin-core/inc/settings-fields.php:229
+msgid "Coupon Field Placeholder"
+msgstr "Placeholder Bidang Kupon"
+
+#: admin-core/inc/settings-fields.php:221
+msgid "Coupon Field Title"
+msgstr "Judul Bidang Kupon"
+
+#: inc/slide-out-ajax.php:338
+msgid "Coupon has been removed."
+msgstr "Kupon telah dihapus."
+
+#: templates/cart/quantity-selector.php:28
+msgid "Decrease quantity"
+msgstr "Kurangi kuantitas"
+
+#: admin-core/inc/settings-fields.php:413
+msgid "Default speed: 300"
+msgstr "Kecepatan default: 300"
+
+#: admin-core/inc/settings-fields.php:240
+msgid "Default value: Checkout now"
+msgstr "Nilai default: Checkout sekarang"
+
+#: admin-core/inc/settings-fields.php:232
+msgid "Default value: Enter discount code"
+msgstr "Nilai default: Masukkan kode diskon"
+
+#: admin-core/inc/settings-fields.php:224
+msgid "Default value: Got a Discount Code?"
+msgstr "Nilai default: Mendapat Kode Diskon?"
+
+#: admin-core/inc/settings-fields.php:248
+msgid "Default value: You're {amount} away from free shipping!"
+msgstr "Nilai default: Anda tinggal {amount} lagi untuk mendapatkan pengiriman gratis!"
+
+#: inc/slide-out-ajax.php:109 inc/slide-out-ajax.php:391
+msgid "Did not pass security check"
+msgstr "Tidak lolos pemeriksaan keamanan"
+
+#: admin-core/inc/settings-fields.php:121
+#: admin-core/inc/settings-fields.php:159 admin-core/assets/build/settings.js:2
+msgid "Disable"
+msgstr "Nonaktifkan"
+
+#: inc/cart.php:375 templates/cart/cart-totals-style2.php:28
+#: admin-core/assets/build/settings.js:9
+msgid "Discount"
+msgstr "Diskon"
+
+#: inc/cart.php:531
+msgid "Discount Amount"
+msgstr "Jumlah Diskon"
+
+#: admin-core/inc/settings-fields.php:261
+msgid "Discount Label"
+msgstr "Label Diskon"
+
+#: admin-core/inc/settings-fields.php:153
+msgid "Display Coupon Field"
+msgstr "Tampilkan Bidang Kupon"
+
+#: inc/scripts.php:170
+msgid "Edit Cart"
+msgstr "Sunting Keranjang"
+
+#: admin-core/inc/settings-fields.php:181 admin-core/assets/build/settings.js:2
+#: admin-core/assets/build/settings.js:11
+msgid "Enable Free Shipping Bar"
+msgstr "Aktifkan Bilah Pengiriman Gratis"
+
+#: admin-core/inc/settings-fields.php:115
+#: inc/abilities/settings/get-available-options.php:71
+msgid "Enable Modern Cart"
+msgstr "Aktifkan Modern Cart"
+
+#: inc/slide-out-ajax.php:286
+msgid "Enter a coupon code!"
+msgstr "Masukkan kode kupon!"
+
+#: admin-core/inc/settings-fields.php:230
+msgid "Enter a placeholder text for the coupon field (e.g., \"Enter your coupon code\")."
+msgstr "Masukkan teks placeholder untuk bidang kupon (mis., \"Masukkan kode kupon Anda\")."
+
+#: admin-core/inc/settings-fields.php:222
+msgid "Enter a title for the coupon field to let users know what it's for."
+msgstr "Masukkan judul untuk bidang kupon untuk memberi tahu pengguna untuk apa kupon itu."
+
+#: templates/cart/coupon-form.php:40
+msgid "Enter coupon code"
+msgstr "Masukkan kode kupon"
+
+#: inc/helper.php:107 inc/slide-out.php:374 inc/slide-out.php:432
+#: admin-core/assets/build/settings.js:9
+msgid "Enter discount code"
+msgstr "Masukkan kode diskon"
+
+#: admin-core/inc/settings-fields.php:129
+#: inc/abilities/settings/get-available-options.php:77
+#: admin-core/assets/build/settings.js:2
+msgid "Entire Website"
+msgstr "Seluruh Situs Web"
+
+#: templates/cart/cart-totals-style2.php:20
+msgid "Est. Tax & Fees"
+msgstr "Est. Pajak & Biaya"
+
+#. translators: %s: country name for tax estimation.
+#: inc/cart.php:464
+msgid "estimated for %s"
+msgstr "diperkirakan untuk %s"
+
+#: inc/helper.php:95
+msgid "Even better with these!"
+msgstr "Bahkan lebih baik dengan ini!"
+
+#: admin-core/inc/settings-fields.php:167
+msgid "Expand"
+msgstr "Memperluas"
+
+#: admin-core/admin-menu.php:272
+msgid "Failed to save settings."
+msgstr "Gagal menyimpan pengaturan."
+
+#: admin-core/inc/settings-fields.php:75 admin-core/inc/settings-fields.php:76
+msgid "Floating Cart Icon"
+msgstr "Ikon Keranjang Apung"
+
+#: admin-core/inc/settings-fields.php:245
+msgid "Free Shipping Bar Text"
+msgstr "Bilah Teks Pengiriman Gratis"
+
+#: admin-core/inc/settings-fields.php:63 admin-core/inc/settings-fields.php:64
+msgid "General"
+msgstr "Umum"
+
+#: inc/helper.php:103 inc/slide-out.php:373 inc/slide-out.php:431
+#: admin-core/assets/build/settings.js:9
+msgid "Got a Discount Code?"
+msgstr "Punya Kode Diskon?"
+
+#: admin-core/inc/settings-fields.php:312
+msgid "Heading Color"
+msgstr "Warna Heading"
+
+#. Author URI of the plugin
+#: modern-cart.php
+msgid "https://cartflows.com/"
+msgstr "https://cartflows.com/"
+
+#: templates/cart/quantity-selector.php:61
+msgid "Increase quantity"
+msgstr "Tingkatkan kuantitas"
+
+#. Translators: %s Product title.
+#: inc/slide-out-ajax.php:570
+msgid "Item"
+msgstr "Item"
+
+#: inc/helper.php:99
+msgid "Let's find you something perfect"
+msgstr "Mari temukan sesuatu yang sempurna untuk Anda"
+
+#: admin-core/inc/settings-fields.php:214
+msgid "Main Heading"
+msgstr "Judul Utama"
+
+#: admin-core/inc/settings-fields.php:163
+msgid "Minimize"
+msgstr "Minimalkan"
+
+#: admin-core/admin-menu.php:65 inc/abilities/register-abilities.php:47
+msgid "Modern Cart"
+msgstr "Modern Cart"
+
+#. Plugin Name of the plugin
+#: modern-cart.php
+msgid "Modern Cart Starter for WooCommerce"
+msgstr "Modern Cart Starter for WooCommerce"
+
+#: admin-core/admin-menu.php:241
+msgid "No valid setting keys found."
+msgstr "Tidak ditemukan kunci pengaturan yang valid."
+
+#: admin-core/admin-menu.php:376 admin-core/admin-menu.php:412
+#: admin-core/admin-menu.php:513 inc/floating-ajax.php:41
+msgid "Nonce verification failed."
+msgstr "Verifikasi nonce gagal."
+
+#: inc/slide-out.php:77
+msgid "OR"
+msgstr "ATAU"
+
+#: templates/cart/cart-totals-style2.php:36
+#: admin-core/assets/build/settings.js:9
+msgid "Order Summary"
+msgstr "Ringkasan Pesanan"
+
+#: admin-core/inc/settings-fields.php:137
+msgid "Pick a cart design that best suits your store's look and feel."
+msgstr "Pilih desain keranjang yang paling sesuai dengan tampilan dan nuansa toko Anda."
+
+#: templates/cart/powered-by.php:19
+msgid "Powered by"
+msgstr "Dipersembahkan oleh"
+
+#: templates/cart/price.php:16
+msgid "Price:"
+msgstr "Harga:"
+
+#. translators: %s: product price
+#: inc/functions.php:162
+msgid "Price: %s"
+msgstr "Harga: %s"
+
+#: admin-core/inc/settings-fields.php:304
+msgid "Primary Color"
+msgstr "Warna Primer"
+
+#: inc/helper.php:111 admin-core/assets/build/settings.js:9
+msgid "Proceed to Checkout"
+msgstr "Lanjutkan ke Checkout"
+
+#: inc/slide-out-ajax.php:60
+msgid "Product Data missing"
+msgstr "Data Produk hilang"
+
+#: inc/slide-out.php:674
+msgid "Product details"
+msgstr "Detail produk"
+
+#: inc/slide-out-ajax.php:180
+msgid "Product not added on cart. Try again."
+msgstr "Produk tidak ditambahkan di keranjang. Coba lagi."
+
+#: inc/slide-out-ajax.php:116
+msgid "Product not found"
+msgstr "Produk tidak ditemukan"
+
+#: templates/cart/price.php:14
+msgid "Product Price"
+msgstr "Harga Produk"
+
+#: templates/cart/quantity-selector.php:37
+msgid "Quantity"
+msgstr "Kuantitas"
+
+#: templates/cart/quantity-selector.php:23
+msgid "Quantity controls"
+msgstr "Kontrol kuantitas"
+
+#: templates/cart/cart-item-style1.php:155
+#: admin-core/assets/build/settings.js:9
+msgid "Remove"
+msgstr "Hapus"
+
+#: inc/slide-out.php:329
+msgid "Remove coupon"
+msgstr "Hapus kupon"
+
+#. translators: %1$s is replaced with the coupon name and %2$s with the coupon
+#. amount
+#: inc/slide-out.php:328
+msgid "Remove coupon %1$s (%2$s)"
+msgstr "Hapus kupon %1$s (%2$s)"
+
+#: templates/cart/cart-item-style1.php:152
+#: templates/cart/cart-item-style2.php:155
+msgid "Remove Item From Cart"
+msgstr "Hapus Item dari keranjang"
+
+#: inc/helper.php:91 inc/slide-out.php:451
+#: admin-core/assets/build/settings.js:9
+msgid "Review Your Cart"
+msgstr "Tinjau Keranjang Anda"
+
+#: templates/cart/recommendation-empty.php:118
+#: templates/cart/recommendations.php:108
+msgid "Select Options"
+msgstr "Pilih Opsi"
+
+#: admin-core/inc/settings-fields.php:305
+msgid "Select the main color for your design."
+msgstr "Pilih warna utama untuk desain Anda."
+
+#: admin-core/inc/settings-fields.php:215
+msgid "Set the main heading for your cart. This is the most important title and helps customers understand what this section is about."
+msgstr "Tetapkan judul utama untuk keranjang Anda. Ini adalah judul yang paling penting dan membantu pelanggan memahami tentang apa bagian ini."
+
+#: plugin-loader.php:279 admin-core/assets/build/settings.js:2
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: admin-core/admin-menu.php:64
+msgid "Settings - Modern Cart Woo"
+msgstr "Pengaturan - Modern Cart Woo"
+
+#: admin-core/admin-menu.php:269
+msgid "Settings saved successfully."
+msgstr "Pengaturan berhasil disimpan."
+
+#: inc/cart.php:261 admin-core/assets/build/settings.js:9
+msgid "Shipping"
+msgstr "Pengiriman"
+
+#: inc/cart.php:529
+msgid "Shipping Cost"
+msgstr "Biaya Pengiriman"
+
+#: templates/cart/cart-totals-style2.php:16
+msgid "Shipping Fee"
+msgstr "Biaya Pengiriman"
+
+#. translators: %1$s: link html start, %2$s: link html end.
+#: admin-core/inc/settings-fields.php:184
+msgid "Shows a progress bar that lets customers see how much more they need to spend to get free shipping. To enable this, turn on Free Shipping in your WooCommerce shipping settings. Need help? Check out %1$s this guide%2$s."
+msgstr "Menampilkan bilah progres yang memungkinkan pelanggan melihat berapa banyak lagi yang perlu mereka belanjakan untuk mendapatkan gratis pengiriman. Untuk mengaktifkan ini, nyalakan Pengiriman Gratis di pengaturan pengiriman WooCommerce Anda. Perlu bantuan? Lihat %1$spanduan ini%2$s."
+
+#: templates/cart/recommendation-empty.php:146
+#: templates/cart/recommendations.php:136
+msgid "Sign Up Now"
+msgstr "Daftar Sekarang"
+
+#: inc/scripts.php:169
+msgid "Somethings wrong! try again later"
+msgstr "Terjadi kesalahan! Coba lagi nanti"
+
+#: inc/slide-out-ajax.php:333
+msgid "Sorry there was a problem removing this coupon."
+msgstr "Maaf ada masalah saat menghapus kupon ini."
+
+#. translators: %s: product name
+#: inc/slide-out-ajax.php:417
+msgid "Sorry, \"%s\" is not in stock. Please edit your cart and try again. We apologize for any inconvenience caused."
+msgstr "Maaf,\" %s \" tidak tersedia. Harap edit keranjang Anda dan coba lagi. Kami mohon maaf atas ketidaknyamanan yang ditimbulkan."
+
+#: inc/slide-out-ajax.php:282
+msgid "Sorry, this coupon code is already applied!"
+msgstr "Maaf, kode kupon ini sudah digunakan!"
+
+#: inc/slide-out-ajax.php:277
+msgid "Sorry, this coupon code is not valid!"
+msgstr "Maaf, kode kupon ini tidak berlaku!"
+
+#. translators: 1: product name 2: quantity in stock
+#: inc/slide-out-ajax.php:434
+msgid "Sorry, we do not have enough \"%1$s\" in stock to fulfill your order (%2$s available). We apologize for any inconvenience caused."
+msgstr "Maaf, kami tidak memiliki stok \"%1$s\" yang cukup untuk memenuhi pesanan Anda (tersedia %2$s). Kami mohon maaf atas ketidaknyamanan yang ditimbulkan."
+
+#: admin-core/inc/settings-fields.php:142 admin-core/assets/build/settings.js:2
+msgid "Style 1"
+msgstr "Gaya 1"
+
+#: admin-core/inc/settings-fields.php:146
+#: inc/abilities/settings/get-available-options.php:173
+#: admin-core/assets/build/settings.js:2
+msgid "Style 2"
+msgstr "Gaya 2"
+
+#: admin-core/inc/settings-fields.php:81 admin-core/inc/settings-fields.php:82
+msgid "Styling"
+msgstr "Styling"
+
+#: inc/cart.php:347 templates/cart/cart-totals-style2.php:24
+#: admin-core/assets/build/settings.js:9
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: inc/cart.php:530
+msgid "Tax Amount"
+msgstr "Jumlah Pajak"
+
+#: admin-core/inc/settings-fields.php:69 admin-core/inc/settings-fields.php:70
+msgid "Text Label"
+msgstr "Label Teks"
+
+#. Description of the plugin
+#: modern-cart.php
+msgid "The Modern Cart Starter enhances your WooCommerce cart with more features and customization options."
+msgstr "Modern Cart Starter menyempurnakan keranjang WooCommerce Anda dengan lebih banyak fitur dan opsi penyesuaian."
+
+#: inc/cart.php:416 admin-core/assets/build/settings.js:9
+msgid "Total"
+msgstr "Total"
+
+#: inc/slide-out-ajax.php:575
+msgid "Undo?"
+msgstr "Membatalkan?"
+
+#: admin-core/inc/settings-fields.php:246
+msgid "Use {amount} to show the remaining amount to spend."
+msgstr "Gunakan {amount} untuk menampilkan sisa jumlah yang dapat dibelanjakan."
+
+#. translators: %s: product name
+#: templates/cart/cart-item-style1.php:125
+#: templates/cart/cart-item-style2.php:125
+msgid "View %s product page"
+msgstr "Lihat halaman produk %s"
+
+#: inc/slide-out.php:672
+msgid "View details"
+msgstr "Lihat rincian"
+
+#: admin-core/inc/settings-fields.php:125 admin-core/assets/build/settings.js:2
+msgid "WooCommerce Pages"
+msgstr "Halaman WooCommerce"
+
+#. translators: %s: product name
+#: inc/slide-out-ajax.php:126
+msgid "You cannot add another \"%s\" to your cart."
+msgstr "Anda tidak dapat menambahkan \"%s \" lain ke keranjang belanja Anda."
+
+#: inc/cart.php:681 inc/helper.php:115 admin-core/assets/build/settings.js:9
+msgid "You're {amount} away from free shipping!"
+msgstr "Anda tinggal {amount} lagi untuk mendapatkan pengiriman gratis!"
+
+#: inc/slide-out.php:456
+msgid "Your Cart Is Empty"
+msgstr "Keranjang Anda kosong"
+
+#: inc/slide-out.php:134
+msgid "Your Cart Is Empty, Let's Fix That!"
+msgstr "Keranjang Anda kosong, ayo kita perbaiki!"
+
+#: inc/slide-out.php:413
+msgid "Your cart is empty. Shop now"
+msgstr "Keranjang Anda kosong. Belanja sekarang"
+
+#: inc/slide-out-ajax.php:259
+msgid "Your coupon code was applied successfully."
+msgstr "Kode kupon Anda berhasil diterapkan."
+
+#: admin-core/inc/settings-fields.php:391
+msgid "Cart Item Padding"
+msgstr "Padding Item Keranjang"
+
+#: admin-core/inc/settings-fields.php:313
+msgid "Choose a color for the headings in the cart."
+msgstr "Pilih warna untuk judul di keranjang."
+
+#: admin-core/inc/settings-fields.php:321
+msgid "Choose a color for the text in your cart."
+msgstr "Pilih warna untuk teks di keranjang Anda."
+
+#: admin-core/inc/settings-fields.php:371
+msgid "Choose the size of product images displayed in the cart."
+msgstr "Pilih ukuran gambar produk yang ditampilkan di keranjang."
+
+#: admin-core/inc/settings-fields.php:299
+msgid "Colors"
+msgstr "Warna"
+
+#: admin-core/inc/settings-fields.php:238
+msgid "Customize the text on your checkout button to match your store's style and guide customers clearly."
+msgstr "Sesuaikan teks pada tombol checkout Anda agar sesuai dengan gaya toko Anda dan pandu pelanggan dengan jelas."
+
+#: admin-core/inc/settings-fields.php:394
+msgid "Default padding: 20px"
+msgstr "Padding default: 20px"
+
+#: admin-core/inc/settings-fields.php:271
+msgid "Floating Cart Button Position"
+msgstr "Posisi Tombol Keranjang Apung"
+
+#: admin-core/inc/settings-fields.php:384
+#: inc/abilities/settings/get-available-options.php:195
+msgid "Large"
+msgstr "Besar"
+
+#: admin-core/inc/settings-fields.php:380
+msgid "Medium"
+msgstr "Sedang"
+
+#: admin-core/inc/settings-fields.php:365
+msgid "Miscellaneous"
+msgstr "Lainnya"
+
+#: modern-cart.php:70
+msgid "Modern Cart for WooCommerce: Update Required"
+msgstr "Modern Cart for WooCommerce: Pembaruan Diperlukan"
+
+#: admin-core/inc/settings-fields.php:370
+#: inc/abilities/settings/get-available-options.php:182
+msgid "Product Image Size"
+msgstr "Ukuran Gambar Produk"
+
+#: admin-core/inc/settings-fields.php:272
+#: admin-core/assets/build/settings.js:11
+msgid "Select where you want to position floating cart button on your website."
+msgstr "Pilih di mana Anda ingin menempatkan tombol keranjang apung di situs web Anda."
+
+#: admin-core/inc/settings-fields.php:392
+msgid "Set the padding around each item in the cart (in pixels)."
+msgstr "Atur padding di sekitar setiap item dalam keranjang (dalam piksel)."
+
+#: admin-core/inc/settings-fields.php:376
+msgid "Small"
+msgstr "Kecil"
+
+#: admin-core/admin-menu.php:219 admin-core/admin-menu.php:380
+#: admin-core/admin-menu.php:517
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Anda tidak memiliki cukup izin untuk mengakses halaman ini."
+
+#. translators: %1$s and %2$s are opening and closing <strong> tags for
+#. emphasis.
+#: modern-cart.php:75
+msgid "You're using an older version of %1$sModern Cart for WooCommerce%2$s. Please update to version %1$s1.2.0 or higher%2$s so it works smoothly with %1$sModern Cart Starter%2$s."
+msgstr "Anda menggunakan versi lebih lama dari %1$s Modern Cart for WooCommerce %2$s. Silakan perbarui ke versi %1$s 1.2.0 atau lebih tinggi %2$s agar berfungsi dengan baik dengan %1$s Modern Cart Starter %2$s."
+
+#. Translators: %s Product title.
+#: inc/slide-out-ajax.php:570
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&ldquo;"
+
+#: templates/cart/recommendation-empty.php:155
+#: templates/cart/recommendations.php:145
+msgid "Add to Cart"
+msgstr "Tambahkan ke Keranjang"

@@ -1,0 +1,7 @@
+olahraga.zip
+olahraga/wp-content/ai1wm-backups/
+olahraga/wp-content/wpvividbackups/
+olahraga/wp-content/uploads/wpvividbackups/
+*.tar
+*.gz
+*.zip
